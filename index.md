@@ -50,9 +50,9 @@ His **throughput** must have been extremely high to compensate for low inputs an
 
 We can think of cognitive throughput here as:
 
-[
+$$
 \text{Cognitive Throughput} = \frac{\Delta(\text{Conceptual Mastery})}{\Delta t}
-]
+$$
 
 or even more concretely:
 
@@ -98,9 +98,9 @@ These are downstream *results conditioned by throughput*:
 
 The output is, in formal terms:
 
-[
+$$
 \text{Output} = \int \text{Throughput} , dt
-]
+$$
 
 And his integral is unusually large given the boundary conditions.
 
@@ -130,13 +130,14 @@ For a sufficiently motivated, high-throughput person:
 Formally:
 
 If
-[
+
+$$
 \frac{\Delta K_{\text{school}}}{\Delta t}
 \Bigg|*{\text{secondary}}
 <
 \frac{\Delta K*{\text{self-taught}}}{\Delta t}
 \Bigg|_{\text{PJM}}
-]
+$$
 
 then the schooling system is throughput-inhibiting.
 
